@@ -45,3 +45,7 @@ The main aim of this project is to understand traffic collision trends and suppo
 
 ```bash
 pip install -r requirements.txt
+3. Open the Jupyter Notebook:
+
+```bash
+jupyter notebook traffic_collision_analysis.ipynb
